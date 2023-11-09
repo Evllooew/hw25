@@ -27,4 +27,12 @@ public class CalculatorService implements ServiceInterface {
         }
         return num1 / num2;
     }
+
+    public int add(int i, int i1) {
+        return 0;
+    }
+
+    public int subtract(int i, int i1) {
+        return 0;
+    }
 }
